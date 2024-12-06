@@ -1,6 +1,6 @@
 # Web Scraping using Selenium
 
-This project parse web pages which is designed using Javascript heavily
+This project parse web pages that are designed using Javascript heavily
 
 Download the 'chrome driver' as per your version of chrome
 
